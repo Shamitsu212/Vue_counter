@@ -54,7 +54,7 @@ const emit = defineEmits<{
 }
 
 
-.buttonBase {
+.baseClass {
   position: absolute;
 
   left: 0;
